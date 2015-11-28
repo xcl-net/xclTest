@@ -3,3 +3,4 @@ Git is free software distributed under the GPL .
 Git has mutable index called stage .
 Git tracks changes.
 git is stupid .
+Craeating a new branch is quick .
